@@ -1,6 +1,6 @@
 Live deploy
 
-https://vercel.com/llenttos-projects/ecommerce-platform/56yo6fV6yKyQVdeewve3XiiCEAB3
+https://ecommerce-platform-git-main-llenttos-projects.vercel.app/
 
 To be updated soon.
 docker-compose.yml is not ready yet
